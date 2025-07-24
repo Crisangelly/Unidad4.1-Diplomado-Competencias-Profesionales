@@ -2,20 +2,16 @@
 
 Todos los cambios notables en este proyecto serán documentados en este archivo.
 
-## [1.0.0] - AAAA-MM-DD
+## [v1.0.0] - 2025-07-24
 
 ### Añadido
-- Descripción de lo que se ha añadido.
-- Cada elemento en una línea nueva.
 
-### Cambiado
-- Descripción de lo que se ha modificado.
-- Cada elemento en una línea nueva.
+Esta versión del manual en formato markdown contiene los puntos de investigación principales correspondientes a los apartados de:
 
-### Eliminado
-- Descripción de lo que se ha quitado.
-- Cada elemento en una línea nueva.
-
-### Corregido
-- Descripción de errores corregidos o mejoras.
-- Cada elemento en una línea nueva.
+- Organización
+- Gestión de Tiempos
+- Roles
+- Formatos
+- Citación
+- Presentación
+- Herramientas Colaborativas
