@@ -46,7 +46,7 @@ El uso de estas herramientas garantiza consistencia en el formato de las citas y
 
 La presentación final de un trabajo universitario no es solo una formalidad; es la culminación de todo el esfuerzo y la investigación, y debe reflejar la calidad del contenido. Una presentación profesional y bien estructurada puede marcar una diferencia significativa en la percepción del evaluador.
 
-## Elementos Clave para una Presentación Efectiva
+### Elementos Clave para una Presentación Efectiva
 Considerando que la entrega final incluye un manual en PDF y posiblemente otros elementos, aquí se detallan los aspectos cruciales:
 
 ### Claridad y Coherencia
