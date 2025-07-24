@@ -18,7 +18,7 @@ La comunicación regular y transparente es fundamental para el buen funcionamien
     - **Resolución de Conflictos:** Promuevan un entorno en el que los desacuerdos se solucionen a través de un diálogo respetuoso, donde cada persona se sienta escuchada y sus opiniones sean apreciadas. La adaptabilidad y la ayuda entre todos son esenciales si alguien requiere asistencia o si las circunstancias cambian.
 3. **Define Criterios de Finalización y Proceso de Revisión:**
 Para asegurar la calidad del trabajo y evitar inconvenientes, es esencial definir criterios claros para la finalización del proyecto y tener un proceso de revisión sólido.
-    - **Identificar los Componentes del Trabajo Final:** Enumeren todos los elementos que el proyecto debe tener (introducción, desarrollo, conclusiones, bibliografía, anexos, presentación, etc) y aclaren qué se considerará un "trabajo completo" para cada parte y para el trabajo en general.
+    - **Identificar los Componentes del Trabajo Final:** Enumeren todos los elementos que el proyecto debe tener (introducción, desarrollo, conclusiones, bibliografía, anexos, presentación, etc.) y aclaren qué se considerará un "trabajo completo" para cada parte y para el trabajo en general.
     - **Revisión Completa:** No solo consiste en redactar el contenido; es vital examinar el trabajo con atención respecto a la coherencia, solidez en los argumentos y ortografía. Además, asegúrense de que el formato y las citas sigan las normas académicas correspondientes (por ejemplo, APA, MLA).
     - **Revisión en Equipo:** Programa tiempo específico en el calendario para la revisión en conjunto. Se recomienda altamente que más de una persona revise cada sección del trabajo para detectar posibles errores o áreas que necesiten mejoras.
 
@@ -28,13 +28,7 @@ La administración eficiente del tiempo es fundamental para lograr resultados po
 
 ### Establecimiento de Plazos y Hitos
 
-Desde el comienzo del proyecto, el equipo necesita crear un calendario que contenga la fecha final de entrega y, a partir de esa fecha, fijar plazos para cada etapa o actividad (como investigación, redacción de secciones específicas, revisión, etc). Usen herramientas como calendarios compartidos (Google Calendar, Outlook Calendar) o gestores de proyectos simples (Jira, Clickup, etc) para visualizar y seguir los avances. Separar el trabajo en hitos más pequeños y manejables; por ejemplo: 
-
-   - "Finalización de la investigación"
-   - "Borrador inicial de la introducción"
-   - "Revisión de las referencias"
-   
-Esto ayuda a seguir el progreso y a hacer cambios si es necesario, del mismo modo, cada hito y tarea debe contar con una persona responsable principal; aunque se trate de un trabajo en equipo, la distribución de tareas individuales promueve el sentido de responsabilidad.
+Desde el comienzo del proyecto, el equipo necesita crear un calendario que contenga la fecha final de entrega y, a partir de esa fecha, fijar plazos para cada etapa o actividad (como investigación, redacción de secciones específicas, revisión, etc.). Usen herramientas como calendarios compartidos (Google Calendar, Outlook Calendar) o gestores de proyectos simples (Jira, Clickup, etc.) para visualizar y seguir los avances. Separar el trabajo en hitos más pequeños y manejables; por ejemplo: "Finalización de la investigación", "Borrador inicial de la introducción", "Revisión de las referencias", entre otros; esto ayuda a seguir el progreso y a hacer cambios si es necesario, del mismo modo, cada hito y tarea debe contar con una persona responsable principal; aunque se trate de un trabajo en equipo, la distribución de tareas individuales promueve el sentido de responsabilidad.
 
 ### Planificación y Distribución de Tareas
 
@@ -50,8 +44,52 @@ Organicen reuniones de forma habitual (ya sea semanalmente, cada dos semanas, o 
 - Para actividades importantes, piensen en tener un plan alternativo; por ejemplo, si una persona no puede hacer su parte a tiempo, ¿quién podría ayudarle?
 - Prevean posibles obstáculos y reflexionen sobre cómo podrían reducirlos.
 
-
 ## Roles
+
+Para que un trabajo en conjunto sea efectivo, es fundamental que cada persona conozca sus responsabilidades. Dar funciones no implica que una persona haga todo y la otra nada, sino que nos permite organizar las actividades de manera más eficiente, prevenir que dos personas realicen lo mismo sin darse cuenta y garantizar que todas las tareas se completen. Estos roles son:
+
+1. **Líder**
+    - **Funciones:**
+        - Coordinar las reuniones y actividades del grupo.
+        - Establecer la agenda de trabajo y objetivos claros para cada sesión.
+        - Fomentar la participación equitativa de todos los miembros.
+        - Mediar en conflictos y diferencias de opinión.
+        - Mantener al grupo enfocado en los objetivos y tareas.
+        - Delegar tareas de manera justa.
+2. **Secretario**
+    - **Funciones:**
+        - Tomar notas detalladas de las discusiones, acuerdos y decisiones acordadas en cada reunión.
+        - Mantener un registro organizado de los avances del proyecto.
+        - Asegurar que la información importante se guarde para futuras referencias.
+3. **Investigador**
+    - **Funciones:**
+        - Buscar y recopilar información relevante de diversas fuentes (bibliografía, libros, entrevistas, etc.).
+        - Analizar la información encontrada y presentar los hallazgos al grupo.
+        - Verificar la fiabilidad de las fuentes de información.
+        - Mantener al grupo actualizado sobre los datos y la investigación.
+
+A grandes rasgos estos serían los roles más relevantes, y los más comunes utilizados puesto que los trabajos universitarios rara vez superan las 4 personas en algunas ocasiones, sin embargo, también existen otros roles secundarios que pueden ser utilizados en caso de que haya más personas disponibles en el grupo y así complementar a los roles anteriores. Estos son:
+
+1. **Portavoz/Comunicador**
+    - **Funciones:**
+        - Representar al grupo en presentaciones orales o reuniones con profesores u otros grupos.
+        - Comunicar los avances, dudas o necesidades del grupo a las partes interesadas externas.
+        - Recopilar y transmitir información relevante del exterior al grupo (modificaciones en los requisitos de la actividad, cambio de fechas de entrega, etc.).
+        - Asegurar que la comunicación externa del grupo sea clara, concisa y profesional.
+2. **Organizador**
+    - **Funciones:**
+        - Controlar el tiempo asignado para cada punto de la agenda durante las reuniones.
+        - Recordar al grupo los plazos de entrega de las tareas y el proyecto en general.
+        - Alertar sobre posibles retrasos o la necesidad de acelerar el ritmo de trabajo.
+        - Ayudar a planificar el tiempo de manera realista para las diferentes fases del proyecto.
+3. **Creativo/Innovador**
+    - **Funciones:**
+        - Aportar ideas originales y enfoques novedosos para los problemas o tareas del proyecto.
+        - Realizar lluvia de ideas y fomentar la creatividad dentro del grupo.
+        - Ayudar a encontrar soluciones creativas a los desafíos que surjan.
+        - Estimular la exploración de diferentes perspectivas y alternativas.
+
+Es importante que tener en cuenta que estos roles no son estáticos; pueden cambiar y superponerse dependiendo de lo que el equipo necesite en un momento dado y de la naturaleza específica del trabajo. Además, es común que los estudiantes asuman varios roles a lo largo del tiempo. La flexibilidad y la capacidad de adaptación a diferentes circunstancias son habilidades realmente valiosas para todos los miembros del grupo.  
 
 ## Formatos 
 (puede ser formato APA)
