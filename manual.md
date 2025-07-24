@@ -44,4 +44,53 @@ El uso de estas herramientas garantiza consistencia en el formato de las citas y
 
 ## Presentación
 
+La presentación final de un trabajo universitario no es solo una formalidad; es la culminación de todo el esfuerzo y la investigación, y debe reflejar la calidad del contenido. Una presentación profesional y bien estructurada puede marcar una diferencia significativa en la percepción del evaluador.
+
+## Elementos Clave para una Presentación Efectiva
+Considerando que la entrega final incluye un manual en PDF y posiblemente otros elementos, aquí se detallan los aspectos cruciales:
+
+**Claridad y Coherencia**:
+
+- **Lenguaje:**: Utiliza un lenguaje claro, conciso y formal. Evita la jerga innecesaria y las ambigüedades.
+
+- **Fluidez:**: Asegúrate de que las ideas fluyan lógicamente entre párrafos y secciones. Utiliza conectores textuales para guiar al lector.
+
+- **Unidad Temática:**: Cada sección debe centrarse en un tema específico y contribuir al objetivo general del manual.
+
+**Formato Consistente**:
+
+- **Adherencia a Normas:**: La aplicación rigurosa de las normas APA (o el formato requerido) es fundamental. Esto incluye márgenes, fuentes, espaciado, títulos y subtítulos. La consistencia en estos elementos hace que el documento sea profesional y fácil de leer.
+
+- **Encabezados y Pies de Página:**: Asegúrate de que los encabezados y números de página estén configurados correctamente en todo el documento.
+
+**Elementos Visuales**:
+
+- **Imágenes y Gráficos:**: Si se incluyen imágenes, figuras o gráficos, deben ser de alta resolución, pertinentes al texto y estar correctamente etiquetados (número de figura/tabla, título, nota o fuente).
+
+- **Tablas:**: Deben ser claras, con títulos concisos y, si es necesario, notas explicativas. Sigue las directrices del formato APA para su inclusión.
+
+**Estructura del Documento Final**:
+
+- **Página de Título:**: Incluye el título del trabajo, los nombres de los autores, la afiliación institucional y la fecha (siguiendo el formato APA).
+
+- **Resumen (Abstract):**: Un breve resumen del manual (generalmente entre 150-250 palabras), que describe el objetivo, la metodología, los resultados principales y las conclusiones.
+
+- **Índice de Contenido:**: Generada automáticamente a partir de los títulos y subtítulos, facilita la navegación por el documento.
+
+- **índice de Figuras:**: Lista todas las figuras o gráficos incluidos en el manual con sus respectivos números y títulos, y la página donde se encuentran.
+
+- **índice de Tablas:**: Lista todas las tablas incluidas en el manual con sus respectivos números y títulos, y la página donde se encuentran.
+
+- **índice de Anexos:**: Lista todos los anexos incluidos en el manual con sus respectivos identificadores (letras o números) y títulos, y la página donde se encuentran.
+
+- **Introducción:**: Presenta el tema, el propósito del manual, su relevancia y la estructura general.
+
+- **Desarrollo del Manual:**: Desarrolla cada una de las secciones (organización, gestión de tiempos, roles, formatos, herramientas colaborativas, citación, etc.). Cada una de estas secciones debe usar los niveles de títulos y subtítulos del formato APA para una jerarquía clara.
+
+- **Conclusiones/Recomendaciones:**: Recapitula los puntos clave y, si es pertinente, ofrece recomendaciones o reflexiones finales.
+
+- **Referencias Bibliográficas:**: La lista completa de todas las fuentes citadas en el manual, formateada rigurosamente según APA 7.ª edición, y que se haya gestionado con la ayuda de herramientas como Zotero o Mendeley.
+
+- **Anexos:**: Material complementario que apoya el contenido principal pero que no es esencial para su comprensión (ej. encuestas, transcripciones).
+
 ## Herramientas Colaborativas
