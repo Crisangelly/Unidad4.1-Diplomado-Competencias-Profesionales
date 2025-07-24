@@ -2,7 +2,7 @@
 
 Todos los cambios notables en este proyecto serán documentados en este archivo.
 
-## [Versión del manual] - AAAA-MM-DD
+## [1.0.0] - AAAA-MM-DD
 
 ### Añadido
 - Descripción de lo que se ha añadido.
