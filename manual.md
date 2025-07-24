@@ -13,14 +13,14 @@
 
 La citación tiene el propósito de reconocer las fuentes de información utilizadas, evitar el plagio y permitir que los lectores localicen las obras originales. Una gestión eficiente de las referencias es crucial para mantener la rigurosidad y la profesionalidad en cualquier trabajo universitario.
 
-## Importancia de la Citación Correcta
+### Importancia de la Citación Correcta
 - **Credibilidad y Rigor:** Las citas demuestran que tu trabajo está respaldado por investigaciones y conocimientos existentes, otorgándole mayor validez y credibilidad.
 
 - **Evitar el Plagio:** Citando correctamente, reconoces el trabajo intelectual de otros, cumpliendo con las normas éticas académicas.
 
 - **Localización de Fuentes:** Las referencias completas permiten a los lectores interesados consultar las fuentes originales para profundizar en un tema.
 
-## Tipos de Citas y su Aplicación
+### Tipos de Citas y su Aplicación
 Además de los elementos clave del formato APA tales como (márgenes, fuente, espaciado, encabezado, etc.), es fundamental entender los tipos de citas que podemos implementar dentro del texto:
 
 - **Cita Textual (Directa):** Reproduce el texto original palabra por palabra.
@@ -31,7 +31,7 @@ Además de los elementos clave del formato APA tales como (márgenes, fuente, es
 
 - **Cita Parafraseada (Indirecta):** Expresa las ideas de otro autor con tus propias palabras. Es decir, la idea se incorpora de manera parafraseada y no lleva comillas, pero requiere la mención del autor y el año de publicación. Ejemplo: Martínez (2023) señala que la colaboración es fundamental para el éxito de los proyectos grupales.
 
-## Herramientas para la Gestión de Citas y Referencias
+### Herramientas para la Gestión de Citas y Referencias
 Manejar una gran cantidad de referencias puede ser complejo. Afortunadamente, existen gestores bibliográficos que automatizan gran parte de este trabajo:
 
 - **Zotero:** Es una herramienta gratuita y de código abierto que te permite recolectar, organizar, citar y compartir fuentes. Se integra con tu navegador web para guardar referencias fácilmente y con procesadores de texto (Word, Google Docs) para insertar citas y generar bibliografías automáticamente en el formato deseado (incluyendo APA 7.ª edición).
@@ -49,7 +49,7 @@ La presentación final de un trabajo universitario no es solo una formalidad; es
 ## Elementos Clave para una Presentación Efectiva
 Considerando que la entrega final incluye un manual en PDF y posiblemente otros elementos, aquí se detallan los aspectos cruciales:
 
-**Claridad y Coherencia**:
+### Claridad y Coherencia
 
 - **Lenguaje:** Utiliza un lenguaje claro, conciso y formal. Evita la jerga innecesaria y las ambigüedades.
 
@@ -57,19 +57,19 @@ Considerando que la entrega final incluye un manual en PDF y posiblemente otros 
 
 - **Unidad Temática:** Cada sección debe centrarse en un tema específico y contribuir al objetivo general del manual.
 
-**Formato Consistente**:
+### Formato Consistente
 
 - **Adherencia a Normas:** La aplicación rigurosa de las normas APA (o el formato requerido) es fundamental. Esto incluye márgenes, fuentes, espaciado, títulos y subtítulos. La consistencia en estos elementos hace que el documento sea profesional y fácil de leer.
 
 - **Encabezados y Pies de Página:** Asegúrate de que los encabezados y números de página estén configurados correctamente en todo el documento.
 
-**Elementos Visuales**:
+### Elementos Visuales
 
 - **Imágenes y Gráficos:** Si se incluyen imágenes, figuras o gráficos, deben ser de alta resolución, pertinentes al texto y estar correctamente etiquetados (número de figura/tabla, título, nota o fuente).
 
 - **Tablas:** Deben ser claras, con títulos concisos y, si es necesario, notas explicativas. Sigue las directrices del formato APA para su inclusión.
 
-**Estructura del Documento Final**:
+### Estructura del Documento Final
 
 - **Página de Título:** Incluye el título del trabajo, los nombres de los autores, la afiliación institucional y la fecha (siguiendo el formato APA).
 
