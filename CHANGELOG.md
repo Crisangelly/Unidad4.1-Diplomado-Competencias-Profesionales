@@ -6,12 +6,26 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 
 ### Añadido
 
-Esta versión del manual en formato markdown contiene los puntos de investigación principales correspondientes a los apartados de:
+- Esta versión del manual en formato markdown contiene los puntos de investigación principales correspondientes a los apartados de:
+    - Organización
+    - Gestión de Tiempos
+    - Roles
+    - Formatos
+    - Citación
+    - Presentación
+    - Herramientas Colaborativas
 
-- Organización
-- Gestión de Tiempos
-- Roles
-- Formatos
-- Citación
-- Presentación
-- Herramientas Colaborativas
+## [v1.0.1] - 2025-07-24
+
+### Añadido
+
+- Imagen del logo de la UVM
+- Encabezado del manual
+
+### Cambiado
+
+- Reescritura de los últimos puntos del manual 
+
+### Corregido
+
+- Ortografía 
