@@ -92,7 +92,38 @@ A grandes rasgos estos serían los roles más relevantes, y los más comunes uti
 Es importante que tener en cuenta que estos roles no son estáticos; pueden cambiar y superponerse dependiendo de lo que el equipo necesite en un momento dado y de la naturaleza específica del trabajo. Además, es común que los estudiantes asuman varios roles a lo largo del tiempo. La flexibilidad y la capacidad de adaptación a diferentes circunstancias son habilidades realmente valiosas para todos los miembros del grupo.  
 
 ## Formatos 
-(puede ser formato APA)
+
+El formato es un punto clave en la entrega de cualquier trabajo académico, ya que asegura que todo sea consistente, fácil de leer y que las fuentes usadas sean citadas correctamente. En el ámbito universitario, es habitual tener que usar distintos estilos, siendo el Formato APA 7. ª edición el más utilizado y requerido en varias áreas de estudio; sin embargo, es importante estar atento a las indicaciones específicas de cada cátedra y profesor, ya que en ocasiones se pueden requerir otros formatos o variaciones.
+
+### Elementos Clave del Formato APA 7.ª Edición
+
+- **Márgenes:** Generalmente 2.54 cm (1 pulgada) en todos los lados.
+- **Fuente y Tamaño:** Se recomienda Times New Roman 12 puntos o Calibri 11 puntos.
+- **Espaciado:** Doble en todo el documento, incluyendo las referencias.
+- **Encabezado y Número de Página:** Un encabezado en la parte superior izquierda (título corto del trabajo, si aplica) y el número de página en la parte superior derecha.
+- **Referencias:** La lista de referencias debe ir al final del trabajo, en una página nueva, ordenada alfabéticamente y con sangría francesa. Cada tipo de fuente (libros, artículos, páginas web, etc.) tiene un formato específico.
+- **Sangría:** Medida: 0.5 pulgadas (equivalente a 1.27 cm).
+- **Títulos y Subtítulos:** Se utilizan diferentes niveles de títulos y subtítulos para organizar la información jerárquicamente.
+    - __Nivel 1:__ Centrado, Negrita, Mayúsculas y Minúsculas. Se utiliza para las secciones principales de tu trabajo (por ejemplo, Introducción, Método, Resultados, Discusión, Referencias). Cada sección principal generalmente comienza en una página nueva.
+    - __Nivel 2:__ Alineado a la izquierda, Negrita, Mayúsculas y Minúsculas. Se usa para subdivisiones importantes dentro de una sección de Nivel 1.
+    - __Nivel 3:__ Alineado a la izquierda, Negrita, Cursiva, Mayúsculas y Minúsculas. Sirve para subdividir aún más las secciones de Nivel 2.
+    - __Nivel 4:__ Sangría de 0.5 pulgadas, Negrita, Mayúsculas y Minúsculas, Termina con un punto. El texto comienza en la misma línea después del punto. Se utiliza para subdivisiones dentro de las secciones de Nivel 3.
+    - __Nivel 5:__ Sangría de 0.5 pulgadas, Negrita, Cursiva, Mayúsculas y Minúsculas, Termina con un punto. El texto comienza en la misma línea después del punto. Es el nivel más bajo y se usa para detalles muy específicos dentro de las secciones de Nivel 4.
+
+Además, es importante tener presente que la Asociación Americana de Psicología (APA), que es la entidad responsable de estas normas, está continuamente publicando y actualizando su Manual de Publicación. Este manual sirve como la guía oficial y más exhaustiva sobre el uso de las normas APA, proporcionando instrucciones claras para la escritura académica, la ética relacionada con la publicación, el formato del documento, la elaboración de tablas y figuras, y, por supuesto, la citación y referencia de fuentes; siempre que existan dudas o necesiten mayor claridad sobre alguna norma en particular, consultar este manual o los recursos oficiales de APA en línea será su mejor herramienta para garantizar la exactitud y el rigor en sus trabajos.
+
+### Otros Formatos y Consideraciones
+
+Aunque la séptima edición de las normas APA es la más utilizada, puede que les pidan o encuentren otros estilos de citación y formatos, según la disciplina o la preferencia de su instructor. Algunos ejemplos son:
+
+- **MLA (Modern Language Association):** Comúnmente utilizado en humanidades y artes.
+- **Chicago/Turabian:** Ampliamente usado en historia, arte y literatura.
+- **ISO 690:** Norma internacional para referencias bibliográficas.
+
+Se recomienda que siempre revisen las indicaciones del docente, antes de comenzar a escribir, es importante verificar qué formato es requerido para su trabajo; y preguntar si tienen dudas. Además, sin importar el formato elegido o solicitado, asegúrense de que todos los integrantes del grupo utilicen el mismo formato y sigan las mismas pautas para prevenir inconsistencias en el trabajo final.
+
+- [Guía Normas APA 7ª edición](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
+- [Normas-apa.org](https://normas-apa.org/)
 
 ## Citación
 
